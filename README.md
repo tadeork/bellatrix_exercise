@@ -1,5 +1,5 @@
 # bellatrix_exercise
-Interview exercise for Bellatrix FS
+Interview exercise for Bellatrix SF
 
 *Esta solución puede ser mejorada de muchas maneras*
 * Agregar CSS para ordenar mejor el resultado
